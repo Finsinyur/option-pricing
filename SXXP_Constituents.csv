@@ -1,0 +1,601 @@
+Company,Supersector,Country,Weight
+NESTLE,Food & Beverage,Switzerland,3.73
+ROCHE HLDG P,Health Care,Switzerland,2.79
+NOVARTIS,Health Care,Switzerland,2.36
+SAP,Technology,Germany,1.85
+ASML HLDG,Technology,Netherlands,1.64
+ASTRAZENECA,Health Care,Great Britain,1.56
+LINDE,Chemicals,Germany,1.44
+LVMH MOET HENNESSY,Personal & Household Goods,France,1.37
+SANOFI,Health Care,France,1.25
+NOVO NORDISK B,Health Care,Denmark,1.23
+SIEMENS,Industrial Goods & Services,Germany,1.1
+GLAXOSMITHKLINE,Health Care,Great Britain,1.04
+TOTAL,Oil & Gas,France,1.01
+ALLIANZ,Insurance,Germany,0.93
+UNILEVER NV,Personal & Household Goods,Netherlands,0.87
+HSBC,Banks,Great Britain,0.86
+L'OREAL,Personal & Household Goods,France,0.84
+BRITISH AMERICAN TOBACCO,Personal & Household Goods,Great Britain,0.83
+AIR LIQUIDE,Chemicals,France,0.82
+DIAGEO,Food & Beverage,Great Britain,0.82
+IBERDROLA,Utilities,Spain,0.77
+UNILEVER PLC,Personal & Household Goods,Great Britain,0.75
+RECKITT BENCKISER GRP,Personal & Household Goods,Great Britain,0.75
+RIO TINTO,Basic Resources,Great Britain,0.73
+SCHNEIDER ELECTRIC,Industrial Goods & Services,France,0.72
+ENEL,Utilities,Italy,0.72
+BAYER,Health Care,Germany,0.7
+BP,Oil & Gas,Great Britain,0.68
+ADIDAS,Personal & Household Goods,Germany,0.64
+BASF,Chemicals,Germany,0.62
+DEUTSCHE TELEKOM,Telecommunications,Germany,0.6
+ZURICH INSURANCE GROUP,Insurance,Switzerland,0.6
+ROYAL DUTCH SHELL A,Oil & Gas,Great Britain,0.59
+Kering,Retail,France,0.55
+VINCI,Construction & Materials,France,0.53
+ANHEUSER-BUSCH INBEV,Food & Beverage,Belgium,0.51
+BHP GROUP PLC.,Basic Resources,Great Britain,0.51
+BNP PARIBAS,Banks,France,0.5
+ADYEN,Industrial Goods & Services,Netherlands,0.5
+AIRBUS,Industrial Goods & Services,France,0.5
+LONZA,Health Care,Switzerland,0.49
+ABB,Industrial Goods & Services,Switzerland,0.49
+RELX PLC,Media,Great Britain,0.49
+DEUTSCHE POST,Industrial Goods & Services,Germany,0.48
+DAIMLER,Automobiles & Parts,Germany,0.48
+DANONE,Food & Beverage,France,0.46
+UBS GROUP,Financial Services,Switzerland,0.45
+PHILIPS,Health Care,Netherlands,0.45
+Prosus,Technology,Netherlands,0.44
+AXA,Insurance,France,0.43
+SAFRAN,Industrial Goods & Services,France,0.42
+MUENCHENER RUECK,Insurance,Germany,0.42
+PRUDENTIAL,Insurance,Great Britain,0.42
+ESSILORLUXOTTICA,Health Care,France,0.41
+NATIONAL GRID,Utilities,Great Britain,0.41
+VODAFONE GRP,Telecommunications,Great Britain,0.39
+EXPERIAN,Industrial Goods & Services,Great Britain,0.39
+INTESA SANPAOLO,Banks,Italy,0.39
+LONDON STOCK EXCHANGE,Financial Services,Great Britain,0.39
+CIE FINANCIERE RICHEMONT,Personal & Household Goods,Switzerland,0.38
+Vonovia SE,Real Estate,Germany,0.38
+GIVAUDAN,Chemicals,Switzerland,0.37
+INFINEON TECHNOLOGIES,Technology,Germany,0.37
+KONE B,Industrial Goods & Services,Finland,0.37
+ERICSSON LM B,Technology,Sweden,0.36
+AHOLD DELHAIZE,Retail,Netherlands,0.35
+PERNOD RICARD,Food & Beverage,France,0.35
+BCO SANTANDER,Banks,Spain,0.35
+DEUTSCHE BOERSE,Financial Services,Germany,0.35
+Industria de Diseno Textil SA,Retail,Spain,0.34
+DSV Panalpina,Industrial Goods & Services,Denmark,0.34
+VOLVO B,Industrial Goods & Services,Sweden,0.34
+ANGLO AMERICAN,Basic Resources,Great Britain,0.33
+ATLAS COPCO A,Industrial Goods & Services,Sweden,0.33
+SIKA,Construction & Materials,Switzerland,0.33
+HERMES INTERNATIONAL,Personal & Household Goods,France,0.33
+VOLKSWAGEN PREF,Automobiles & Parts,Germany,0.32
+VESTAS WIND SYSTEMS,Oil & Gas,Denmark,0.32
+ING GRP,Banks,Netherlands,0.32
+INVESTOR B,Financial Services,Sweden,0.32
+CRH,Construction & Materials,Ireland,0.32
+ALCON,Health Care,Switzerland,0.31
+KONINKLIJKE DSM,Chemicals,Netherlands,0.29
+TESCO,Retail,Great Britain,0.29
+AMADEUS IT GROUP,Technology,Spain,0.29
+DASSAULT SYSTEMS,Technology,France,0.28
+CREDIT SUISSE GRP,Financial Services,Switzerland,0.27
+COMPASS GRP,Travel & Leisure,Great Britain,0.27
+E.ON,Utilities,Germany,0.27
+ENGIE,Utilities,France,0.27
+GLENCORE PLC,Basic Resources,Great Britain,0.27
+NORDEA BANK,Banks,Sweden,0.27
+GENMAB,Health Care,Denmark,0.27
+NESTE,Oil & Gas,Finland,0.26
+VIVENDI,Media,France,0.26
+ORSTED,Utilities,Denmark,0.26
+ASSA ABLOY,Construction & Materials,Sweden,0.26
+LafargeHolcim,Construction & Materials,Switzerland,0.26
+BMW,Automobiles & Parts,Germany,0.25
+FERRARI,Automobiles & Parts,Italy,0.25
+CAP GEMINI,Technology,France,0.25
+WOLTERS KLUWER,Media,Netherlands,0.25
+SAINT GOBAIN,Construction & Materials,France,0.25
+NOKIA,Technology,Finland,0.25
+SWISS REINSURANCE COMPANY,Insurance,Switzerland,0.24
+SANDVIK,Industrial Goods & Services,Sweden,0.24
+FLUTTER ENTERTAINMENT,Travel & Leisure,Ireland,0.24
+LLOYDS BANKING GRP,Banks,Great Britain,0.24
+FERGUSON PLC,Industrial Goods & Services,Great Britain,0.24
+RWE,Utilities,Germany,0.24
+HEINEKEN,Food & Beverage,Netherlands,0.23
+ORANGE,Telecommunications,France,0.23
+Essity B,Personal & Household Goods,Sweden,0.23
+ENI,Oil & Gas,Italy,0.23
+LEGRAND,Industrial Goods & Services,France,0.23
+BAE SYSTEMS,Industrial Goods & Services,Great Britain,0.23
+OCADO,Retail,Great Britain,0.23
+HEXAGON B,Technology,Sweden,0.23
+GEBERIT,Construction & Materials,Switzerland,0.23
+SAMPO,Insurance,Finland,0.23
+KERRY GRP,Food & Beverage,Ireland,0.22
+BARCLAYS,Banks,Great Britain,0.22
+STMICROELECTRONICS,Technology,Italy,0.21
+UNICREDIT,Banks,Italy,0.21
+MICHELIN,Automobiles & Parts,France,0.21
+CELLNEX TELECOM,Telecommunications,Spain,0.21
+AKZO NOBEL,Chemicals,Netherlands,0.21
+MERCK,Health Care,Germany,0.2
+FRESENIUS,Health Care,Germany,0.2
+COLOPLAST B,Health Care,Denmark,0.2
+HENKEL PREF,Personal & Household Goods,Germany,0.2
+ASSICURAZIONI GENERALI,Insurance,Italy,0.2
+DEUTSCHE BANK,Banks,Germany,0.2
+BCO BILBAO VIZCAYA ARGENTARIA,Banks,Spain,0.19
+TELEPERFORMANCE,Industrial Goods & Services,France,0.19
+SYMRISE,Chemicals,Germany,0.19
+FRESENIUS MEDICAL CARE,Health Care,Germany,0.19
+SMITH & NEPHEW,Health Care,Great Britain,0.19
+DEUTSCHE WOHNEN,Real Estate,Germany,0.19
+EQUINOR,Oil & Gas,Norway,0.18
+PARTNERS GRP HLDG,Financial Services,Switzerland,0.18
+UPM KYMMENE,Basic Resources,Finland,0.18
+TELEFONICA,Telecommunications,Spain,0.18
+ASHTEAD GRP,Industrial Goods & Services,Great Britain,0.18
+SGS,Industrial Goods & Services,Switzerland,0.18
+IMPERIAL BRANDS,Personal & Household Goods,Great Britain,0.18
+SCOTTISH & SOUTHERN ENERGY,Utilities,Great Britain,0.17
+DELIVERY HERO,Retail,Germany,0.16
+SWEDBANK,Banks,Sweden,0.16
+SKANDINAVISKA ENSKILDA BK A,Banks,Sweden,0.16
+LEGAL & GENERAL GRP,Insurance,Great Britain,0.16
+AVIVA,Insurance,Great Britain,0.16
+ZALANDO,Retail,Germany,0.16
+UCB,Health Care,Belgium,0.16
+JUST EAT TAKEAWAY.COM NV,Retail,Netherlands,0.15
+KBC GRP,Banks,Belgium,0.15
+CARLSBERG B,Food & Beverage,Denmark,0.15
+EDP ENERGIAS DE PORTUGAL,Utilities,Portugal,0.15
+WORLDLINE,Industrial Goods & Services,France,0.15
+FERROVIAL,Construction & Materials,Spain,0.15
+SWISSCOM,Telecommunications,Switzerland,0.15
+SARTORIUS PREF.,Industrial Goods & Services,Germany,0.15
+NOVOZYMES,Health Care,Denmark,0.15
+SEGRO,Real Estate,Great Britain,0.15
+FIAT CHRYSLER AUTOMOBILES,Automobiles & Parts,Italy,0.15
+HENNES & MAURITZ B,Retail,Sweden,0.15
+KINGSPAN GRP,Construction & Materials,Ireland,0.14
+SVENSKA HANDELSBANKEN A,Banks,Sweden,0.14
+DNB,Banks,Norway,0.14
+RENTOKIL INITIAL,Industrial Goods & Services,Great Britain,0.14
+INTERTEK GRP,Industrial Goods & Services,Great Britain,0.14
+SWEDISH MATCH,Personal & Household Goods,Sweden,0.14
+SONOVA,Health Care,Switzerland,0.14
+SWISS LIFE HLDG,Insurance,Switzerland,0.14
+GRP SOCIETE GENERALE,Banks,France,0.13
+NN GROUP,Insurance,Netherlands,0.13
+BT GRP,Telecommunications,Great Britain,0.13
+3I GROUP PLC.,Financial Services,Great Britain,0.13
+LOGITECH INTERNATIONAL,Technology,Switzerland,0.13
+STANDARD CHARTERED,Banks,Great Britain,0.13
+CREDIT AGRICOLE,Banks,France,0.13
+EDENRED,Industrial Goods & Services,France,0.13
+VEOLIA ENVIRONNEMENT,Utilities,France,0.12
+STRAUMANN,Health Care,Switzerland,0.12
+CHR HANSEN HLDG,Health Care,Denmark,0.12
+QIAGEN,Health Care,Germany,0.12
+EQT,Financial Services,Sweden,0.12
+CONTINENTAL,Automobiles & Parts,Germany,0.12
+SCHINDLER P,Industrial Goods & Services,Switzerland,0.12
+HALMA,Industrial Goods & Services,Great Britain,0.12
+BEIERSDORF,Personal & Household Goods,Germany,0.12
+TELENOR,Telecommunications,Norway,0.12
+BOUYGUES,Construction & Materials,France,0.12
+KUEHNE + NAGEL,Industrial Goods & Services,Switzerland,0.11
+REPSOL,Oil & Gas,Spain,0.11
+NEXT,Retail,Great Britain,0.11
+BUNZL,Industrial Goods & Services,Great Britain,0.11
+CRODA INTERNATIONAL,Chemicals,Great Britain,0.11
+SNAM RETE GAS,Oil & Gas,Italy,0.11
+SAGE GRP,Technology,Great Britain,0.11
+ARGENX,Health Care,Belgium,0.11
+AENA SME,Industrial Goods & Services,Spain,0.11
+ALSTOM,Industrial Goods & Services,France,0.11
+PERSIMMON,Personal & Household Goods,Great Britain,0.11
+BRENNTAG,Chemicals,Germany,0.11
+INGENICO,Technology,France,0.11
+LEG IMMOBILIEN,Real Estate,Germany,0.11
+STORA ENSO R,Basic Resources,Finland,0.11
+SPIRAX-SARCO,Industrial Goods & Services,Great Britain,0.11
+PEUGEOT,Automobiles & Parts,France,0.11
+GN STORE NORD,Health Care,Denmark,0.11
+TERNA,Utilities,Italy,0.11
+INTERCONTINENTAL HOTELS GRP,Travel & Leisure,Great Britain,0.11
+JULIUS BAER GRP,Banks,Switzerland,0.11
+GRP BRUXELLES LAMBERT,Financial Services,Belgium,0.11
+UMICORE,Chemicals,Belgium,0.1
+TELIA COMPANY,Telecommunications,Sweden,0.1
+EUROFINS SCIENTIFIC,Health Care,France,0.1
+TEMENOS,Technology,Switzerland,0.1
+LINDT & SPRUENGLI REG,Food & Beverage,Switzerland,0.1
+ARCELORMITTAL,Basic Resources,Luxembourg,0.1
+MTU AERO ENGINES,Industrial Goods & Services,Germany,0.1
+SCOUT24,Technology,Germany,0.1
+WPP,Media,Great Britain,0.1
+HEIDELBERGCEMENT,Construction & Materials,Germany,0.1
+COVESTRO,Chemicals,Germany,0.1
+HANNOVER RUECK,Insurance,Germany,0.1
+ADECCO,Industrial Goods & Services,Switzerland,0.1
+KINNEVIK B,Financial Services,Sweden,0.1
+MONDI,Basic Resources,Great Britain,0.1
+EPIROC A,Industrial Goods & Services,Sweden,0.1
+PORSCHE PREF,Automobiles & Parts,Germany,0.1
+DANSKE BANK,Banks,Denmark,0.1
+CARREFOUR,Retail,France,0.1
+A.P.MOLLER-MAERSK B,Industrial Goods & Services,Denmark,0.1
+FORTUM,Utilities,Finland,0.1
+ELISA CORPORATION,Telecommunications,Finland,0.09
+ASSOCIATED BRITISH FOODS,Food & Beverage,Great Britain,0.09
+NIBE INDUSTRIER B,Construction & Materials,Sweden,0.09
+EIFFAGE,Construction & Materials,France,0.09
+KPN,Telecommunications,Netherlands,0.09
+SMURFIT KAPPA GRP,Industrial Goods & Services,Ireland,0.09
+UBISOFT ENTERTAINMENT,Personal & Household Goods,France,0.09
+MONCLER,Personal & Household Goods,Italy,0.09
+SKANSKA B,Construction & Materials,Sweden,0.09
+ENDESA,Utilities,Spain,0.09
+ADMIRAL GRP,Insurance,Great Britain,0.09
+CAIXABANK,Banks,Spain,0.09
+MOWI,Food & Beverage,Norway,0.09
+FINECOBANK,Banks,Italy,0.09
+GRIFOLS,Health Care,Spain,0.09
+EVOLUTION GAMING GROUP,Travel & Leisure,Sweden,0.09
+SARTORIUS STEDIM BIOTECH,Health Care,France,0.09
+DCC,Industrial Goods & Services,Great Britain,0.09
+ATLANTIA,Industrial Goods & Services,Italy,0.09
+RED ELECTRICA CORPORATION,Utilities,Spain,0.09
+BURBERRY,Personal & Household Goods,Great Britain,0.09
+THALES,Industrial Goods & Services,France,0.09
+SKF B,Industrial Goods & Services,Sweden,0.09
+BOLIDEN,Basic Resources,Sweden,0.09
+ATOS,Technology,France,0.09
+ARKEMA,Chemicals,France,0.09
+CNH Industrial NV,Industrial Goods & Services,Italy,0.08
+SVENSKA CELLULOSA B,Basic Resources,Sweden,0.08
+AGEAS,Insurance,Belgium,0.08
+RYANAIR,Travel & Leisure,Ireland,0.08
+PRYSMIAN,Industrial Goods & Services,Italy,0.08
+UNITED UTILITIES GRP,Utilities,Great Britain,0.08
+SEVERN TRENT,Utilities,Great Britain,0.08
+HEINEKEN HLDG,Food & Beverage,Netherlands,0.08
+ORKLA,Food & Beverage,Norway,0.08
+PANDORA,Personal & Household Goods,Denmark,0.08
+PUMA,Personal & Household Goods,Germany,0.08
+EMS-CHEMIE HLDG,Chemicals,Switzerland,0.08
+BALOISE,Insurance,Switzerland,0.08
+SMITHS GRP,Industrial Goods & Services,Great Britain,0.08
+PUBLICIS GRP,Media,France,0.08
+KINGFISHER,Retail,Great Britain,0.08
+BIOMERIEUX,Health Care,France,0.08
+BERKELEY GRP HLDG,Personal & Household Goods,Great Britain,0.08
+VIFOR PHARMA,Health Care,Switzerland,0.08
+RIGHTMOVE GRP,Media,Great Britain,0.08
+CD PROJECT SA,Personal & Household Goods,Poland,0.08
+SWISS PRIME SITE,Real Estate,Switzerland,0.08
+AUTO TRADER GROUP,Media,Great Britain,0.08
+MELROSE INDUSTRIES,Industrial Goods & Services,Great Britain,0.08
+ALFA LAVAL,Industrial Goods & Services,Sweden,0.08
+VALEO,Automobiles & Parts,France,0.07
+TELE2 B,Telecommunications,Sweden,0.07
+Naturgy Energy Group,Utilities,Spain,0.07
+SOLVAY,Chemicals,Belgium,0.07
+HARGREAVES LANSDOWN,Financial Services,Great Britain,0.07
+BUREAU VERITAS,Industrial Goods & Services,France,0.07
+KESKO,Retail,Finland,0.07
+ASM INTERNATIONAL,Technology,Netherlands,0.07
+SWATCH BEARER,Personal & Household Goods,Switzerland,0.07
+ST.JAMES'S PLACE CAPITAL,Insurance,Great Britain,0.07
+SIEMENS HEALTHINEERS,Health Care,Germany,0.07
+ERSTE GROUP BANK,Banks,Austria,0.07
+SUEZ ENVIRONNEMENT,Utilities,France,0.07
+YARA,Chemicals,Norway,0.07
+INFORMA,Media,Great Britain,0.07
+STANDARD LIFE ABERDEEN,Financial Services,Great Britain,0.07
+RANDSTAD,Industrial Goods & Services,Netherlands,0.07
+GVC HOLDINGS,Travel & Leisure,Great Britain,0.07
+EXOR NV,Financial Services,Italy,0.07
+PHOENIX GROUP HDG.,Insurance,Great Britain,0.07
+IMCD,Chemicals,Netherlands,0.07
+EURONEXT,Financial Services,France,0.07
+HELLOFRESH AG,Retail,Germany,0.07
+RSA INSURANCE GRP,Insurance,Great Britain,0.07
+SODEXO,Travel & Leisure,France,0.07
+POLYMETAL INTERNATIONAL,Basic Resources,Great Britain,0.07
+BARRY CALLEBAUT,Food & Beverage,Switzerland,0.07
+METSO OUTOTEC,Industrial Goods & Services,Finland,0.07
+BARRATT DEVELOPMENTS,Personal & Household Goods,Great Britain,0.07
+JOHNSON MATTHEY,Chemicals,Great Britain,0.07
+Getlink,Industrial Goods & Services,France,0.07
+GECINA,Real Estate,France,0.07
+AROUNDTOWN (FRA),Real Estate,Germany,0.07
+ORPEA,Health Care,France,0.06
+TEAMVIEWER AG,Technology,Germany,0.06
+NEXI SPA,Industrial Goods & Services,Italy,0.06
+GALAPAGOS,Health Care,Belgium,0.06
+SIEMENS GAMESA,Oil & Gas,Spain,0.06
+KNORR BREMSE,Industrial Goods & Services,Germany,0.06
+ACS,Construction & Materials,Spain,0.06
+PENNON GRP,Utilities,Great Britain,0.06
+KION GROUP,Industrial Goods & Services,Germany,0.06
+NATWEST GROUP,Banks,Great Britain,0.06
+WHITBREAD,Travel & Leisure,Great Britain,0.06
+CASTELLUM,Real Estate,Sweden,0.06
+BECHTLE,Technology,Germany,0.06
+ENAGAS,Oil & Gas,Spain,0.06
+RENAULT,Automobiles & Parts,France,0.06
+ACCOR,Travel & Leisure,France,0.06
+ANTOFAGASTA,Basic Resources,Great Britain,0.06
+DIRECT LINE INSURANCE GROUP,Insurance,Great Britain,0.06
+MORRISON (WILLIAM) SUPERMARK,Retail,Great Britain,0.06
+DAVIDE CAMPARI,Food & Beverage,Italy,0.06
+RECORDATI,Health Care,Italy,0.06
+GEA GRP,Industrial Goods & Services,Germany,0.06
+UNITED INTERNET,Technology,Germany,0.06
+COMMERZBANK,Banks,Germany,0.06
+UNIBAIL-RODAMCO-WESTFIELD,Real Estate,France,0.06
+EVONIK INDUSTRIES,Chemicals,Germany,0.06
+COCA-COLA HBC,Food & Beverage,Great Britain,0.06
+EDF,Utilities,France,0.06
+SIMCORP,Technology,Denmark,0.05
+AMS AG,Technology,Switzerland,0.05
+MEDIOBANCA,Financial Services,Italy,0.05
+DIASORIN,Health Care,Italy,0.05
+TECAN,Health Care,Switzerland,0.05
+LANXESS,Chemicals,Germany,0.05
+CLARIANT,Chemicals,Switzerland,0.05
+SECURITAS B,Industrial Goods & Services,Sweden,0.05
+VAT GROUP AG,Industrial Goods & Services,Switzerland,0.05
+SWEDISH ORPHAN BIOVITRUM,Health Care,Sweden,0.05
+ELECTROLUX B,Personal & Household Goods,Sweden,0.05
+PSP SWISS PROPERTY,Real Estate,Switzerland,0.05
+GALP ENERGIA,Oil & Gas,Portugal,0.05
+M&G,Financial Services,Great Britain,0.05
+PKO BANK,Banks,Poland,0.05
+B&M EUROPEAN VALUE RETAIL,Retail,Great Britain,0.05
+SIG COMBIBLOC GROUP AG,Industrial Goods & Services,Switzerland,0.05
+INDUTRADE,Industrial Goods & Services,Sweden,0.05
+ORION B,Health Care,Finland,0.05
+ASR NEDERLAND NV,Insurance,Netherlands,0.05
+FASTIGHETS BALDER B,Real Estate,Sweden,0.05
+ELEKTA B,Health Care,Sweden,0.05
+HIKMA PHARMACEUTICALS,Health Care,Great Britain,0.05
+KGHM,Basic Resources,Poland,0.05
+PEARSON,Media,Great Britain,0.05
+LAND SECURITIES,Real Estate,Great Britain,0.05
+HOMESERVE,Retail,Great Britain,0.05
+DS SMITH,Industrial Goods & Services,Great Britain,0.05
+ICA GRUPPEN,Retail,Sweden,0.05
+WDP,Real Estate,Belgium,0.05
+SIGNIFY,Industrial Goods & Services,Netherlands,0.05
+SCOR,Insurance,France,0.05
+SCHRODERS,Financial Services,Great Britain,0.05
+INDUSTRIVARDEN A,Financial Services,Sweden,0.05
+INTERMEDIATE CAPITAL GRP,Financial Services,Great Britain,0.05
+GETINGE B,Health Care,Sweden,0.05
+AEGON,Insurance,Netherlands,0.05
+HUHTAMAKI,Industrial Goods & Services,Finland,0.05
+LA FRANCAISE DES JEUX,Travel & Leisure,France,0.05
+HOWDEN JOINERY GRP,Retail,Great Britain,0.05
+MORPHOSYS,Health Care,Germany,0.05
+TRELLEBORG B,Industrial Goods & Services,Sweden,0.05
+ROLLS ROYCE HLDG,Industrial Goods & Services,Great Britain,0.05
+TOMRA SYSTEMS,Industrial Goods & Services,Norway,0.05
+TAG IMMOBILIEN AG,Real Estate,Germany,0.05
+AVAST PLC,Technology,Great Britain,0.05
+AMUNDI,Financial Services,France,0.05
+TAYLOR WIMPEY,Personal & Household Goods,Great Britain,0.05
+HUSQVARNA B,Personal & Household Goods,Sweden,0.05
+AMPLIFON,Health Care,Italy,0.05
+JD SPORTS FASHION,Retail,Great Britain,0.05
+AMBU 'B',Health Care,Denmark,0.05
+WEIR GRP,Industrial Goods & Services,Great Britain,0.05
+CARL ZEISS MEDITEC,Health Care,Germany,0.05
+KOJAMO OYJ,Real Estate,Finland,0.05
+SAINSBURY (J),Retail,Great Britain,0.05
+SOFINA,Financial Services,Belgium,0.05
+GEORG FISCHER,Industrial Goods & Services,Switzerland,0.05
+ROYAL UNIBREW,Food & Beverage,Denmark,0.05
+DECHRA PHARMACEUTICALS,Health Care,Great Britain,0.05
+OMV,Oil & Gas,Austria,0.05
+LUNDIN ENERGY,Oil & Gas,Sweden,0.05
+HISCOX,Insurance,Great Britain,0.05
+POSTE ITALIANE,Insurance,Italy,0.05
+GAMES WORKSHOP,Personal & Household Goods,Great Britain,0.04
+NEMETSCHEK,Technology,Germany,0.04
+GJENSIDIGE FORSIKRING,Insurance,Norway,0.04
+FABEGE,Real Estate,Sweden,0.04
+TATE & LYLE,Food & Beverage,Great Britain,0.04
+TELECOM ITALIA,Telecommunications,Italy,0.04
+ADEVINTA,Retail,Norway,0.04
+ELECTROCOMPONENTS,Industrial Goods & Services,Great Britain,0.04
+ABN AMRO BANK,Banks,Netherlands,0.04
+RHEINMETALL,Industrial Goods & Services,Germany,0.04
+IG GRP HLDG,Financial Services,Great Britain,0.04
+JERONIMO MARTINS,Retail,Portugal,0.04
+SUNRISE,Telecommunications,Switzerland,0.04
+NORSK HYDRO,Basic Resources,Norway,0.04
+AVEVA GRP,Technology,Great Britain,0.04
+PZU GROUP,Insurance,Poland,0.04
+RUBIS,Oil & Gas,France,0.04
+BRITISH LAND COMPANY,Real Estate,Great Britain,0.04
+SEB,Personal & Household Goods,France,0.04
+IPSEN,Health Care,France,0.04
+PKNORLEN,Oil & Gas,Poland,0.04
+COFINIMMO,Real Estate,Belgium,0.04
+WARTSILA,Industrial Goods & Services,Finland,0.04
+IMI,Industrial Goods & Services,Great Britain,0.04
+SWECO 'B',Construction & Materials,Sweden,0.04
+SPECTRIS,Industrial Goods & Services,Great Britain,0.04
+NETCOMPANY GROUP AS,Technology,Denmark,0.04
+GRP 4 SECURICOR,Industrial Goods & Services,Great Britain,0.04
+CONVATEC PLC,Health Care,Great Britain,0.04
+BELIMO HOLDING,Construction & Materials,Switzerland,0.04
+VOPAK,Industrial Goods & Services,Netherlands,0.04
+SINCH,Technology,Sweden,0.04
+REMY COINTREAU,Food & Beverage,France,0.04
+LUNDBERGFORETAGEN B,Real Estate,Sweden,0.04
+TRYG,Insurance,Denmark,0.04
+COVIVIO,Real Estate,France,0.04
+CEMBRA MONEY BANK,Banks,Switzerland,0.04
+NOKIAN RENKAAT,Automobiles & Parts,Finland,0.04
+Valmet,Industrial Goods & Services,Finland,0.04
+RATIONAL,Industrial Goods & Services,Germany,0.04
+BELLWAY,Personal & Household Goods,Great Britain,0.04
+GALENICA SANTE AG,Retail,Switzerland,0.04
+DOMETIC GROUP AB,Personal & Household Goods,Sweden,0.04
+AALBERTS,Industrial Goods & Services,Netherlands,0.04
+VERBUND,Utilities,Austria,0.04
+HOLMEN B,Basic Resources,Sweden,0.04
+TRAVIS PERKINS,Industrial Goods & Services,Great Britain,0.04
+LIFCO B,Industrial Goods & Services,Sweden,0.04
+UNIPER,Utilities,Germany,0.04
+IAG,Travel & Leisure,Great Britain,0.04
+DERWENT LONDON,Real Estate,Great Britain,0.04
+UNITE GROUP PLC,Real Estate,Great Britain,0.04
+SCHIBSTED GRUPPEN,Media,Norway,0.04
+TRITAX BIG BOX REIT,Real Estate,Great Britain,0.04
+ETS COLRUYT,Retail,Belgium,0.04
+ADDTECH B,Industrial Goods & Services,Sweden,0.04
+BOLLORE,Industrial Goods & Services,France,0.04
+FUCHS PETROLUB PREF,Chemicals,Germany,0.04
+HERA,Utilities,Italy,0.04
+AEDIFICA,Real Estate,Belgium,0.04
+ELIA GROUP,Utilities,Belgium,0.04
+CNP ASSURANCES,Insurance,France,0.04
+ROTORK,Industrial Goods & Services,Great Britain,0.04
+EVOTEC,Health Care,Germany,0.04
+GENUS,Health Care,Great Britain,0.04
+TECHNIPFMC,Oil & Gas,France,0.03
+AAK,Food & Beverage,Sweden,0.03
+GERRESHEIMER,Health Care,Germany,0.03
+ROCKWOOL B,Construction & Materials,Denmark,0.03
+BANKINTER,Banks,Spain,0.03
+BAKKAFROST,Food & Beverage,Norway,0.03
+THULE GROUP,Personal & Household Goods,Sweden,0.03
+BE SEMICONDUCTOR,Technology,Netherlands,0.03
+WALLENSTAM B,Real Estate,Sweden,0.03
+CENTAMIN,Basic Resources,Great Britain,0.03
+WIENERBERGER,Construction & Materials,Austria,0.03
+FAURECIA,Automobiles & Parts,France,0.03
+BEAZLEY,Insurance,Great Britain,0.03
+CENTRICA,Utilities,Great Britain,0.03
+REXEL,Industrial Goods & Services,France,0.03
+ALLREAL HLDG,Real Estate,Switzerland,0.03
+LATOUR INVESTMENT B,Financial Services,Sweden,0.03
+ILIAD,Telecommunications,France,0.03
+INTERPUMP GRP,Industrial Goods & Services,Italy,0.03
+ACKERMANS & VAN HAAREN,Financial Services,Belgium,0.03
+SAMHALLSBYGGNADSBOL AGET NORD,Real Estate,Sweden,0.03
+BANQUE CANTONALE VAUDOISE,Banks,Switzerland,0.03
+MERLIN PROPERTIES SOCIMI,Real Estate,Spain,0.03
+ITV,Media,Great Britain,0.03
+PROXIMUS,Telecommunications,Belgium,0.03
+ALTICE EUROPE NV A,Telecommunications,Netherlands,0.03
+QUILTER,Financial Services,Great Britain,0.03
+SALMAR,Food & Beverage,Norway,0.03
+BILLERUDKORSNAS,Basic Resources,Sweden,0.03
+DIALOG SEMICON,Technology,Germany,0.03
+VOESTALPINE,Basic Resources,Austria,0.03
+HELVETIA HLDG,Insurance,Switzerland,0.03
+BRITVIC,Food & Beverage,Great Britain,0.03
+ITALGAS,Utilities,Italy,0.03
+ROYAL MAIL,Industrial Goods & Services,Great Britain,0.03
+ADP,Industrial Goods & Services,France,0.03
+KLEPIERRE,Real Estate,France,0.03
+MARKS & SPENCER GRP,Retail,Great Britain,0.03
+ASSURA,Real Estate,Great Britain,0.03
+SES,Technology,Luxembourg,0.03
+FREENET,Telecommunications,Germany,0.03
+WIHLBORGS FASTIGHETER,Real Estate,Sweden,0.03
+GRAINGER,Real Estate,Great Britain,0.03
+GRAND CITY PROPERTIES,Real Estate,Germany,0.03
+MEGGITT,Industrial Goods & Services,Great Britain,0.03
+EURAZEO,Financial Services,France,0.03
+FLUGHAFEN ZURICH,Industrial Goods & Services,Switzerland,0.03
+THYSSENKRUPP,Industrial Goods & Services,Germany,0.03
+CTS EVENTIM,Media,Germany,0.03
+DIPLOMA,Industrial Goods & Services,Great Britain,0.03
+ALSTRIA OFFICE REIT,Real Estate,Germany,0.03
+SOPRA STERIA GROUP,Technology,France,0.03
+LEONARDO,Industrial Goods & Services,Italy,0.03
+STOREBRAND,Insurance,Norway,0.03
+EVRAZ,Basic Resources,Great Britain,0.03
+WENDEL,Financial Services,France,0.03
+TELEFONICA DEUTSCHLAND,Telecommunications,Germany,0.03
+TENARIS,Basic Resources,Italy,0.03
+VISCOFAN,Food & Beverage,Spain,0.03
+SAAB B,Industrial Goods & Services,Sweden,0.03
+SBM OFFSHORE,Oil & Gas,Netherlands,0.03
+ALTEN,Technology,France,0.03
+UDG HEALTHCARE PUBLIC,Health Care,Great Britain,0.03
+BANCO BPM,Banks,Italy,0.03
+ACCIONA S.A.,Construction & Materials,Spain,0.03
+HAYS,Industrial Goods & Services,Great Britain,0.03
+AXFOOD,Retail,Sweden,0.03
+DEMANT,Health Care,Denmark,0.03
+LUFTHANSA,Travel & Leisure,Germany,0.03
+LPP,Personal & Household Goods,Poland,0.03
+TRAINLINE PLC,Travel & Leisure,Great Britain,0.03
+OLD MUTUAL,Insurance,Great Britain,0.03
+HEXPOL 'B',Chemicals,Sweden,0.03
+ENTRA,Real Estate,Norway,0.03
+CRANSWICK,Food & Beverage,Great Britain,0.03
+MAN GRP,Financial Services,Great Britain,0.03
+SPIE,Industrial Goods & Services,France,0.03
+IDORSIA LIMITED,Health Care,Switzerland,0.03
+PROSIEBENSAT.1 MEDIA,Media,Germany,0.03
+NATIXIS,Banks,France,0.02
+PEKAO,Banks,Poland,0.02
+BAWAG GROUP AG,Banks,Austria,0.02
+PRIMARY HEALTH PROPS.,Real Estate,Great Britain,0.02
+ELIS,Industrial Goods & Services,France,0.02
+A2A,Utilities,Italy,0.02
+INMOBILIARIA COLONIAL SOCIMI,Real Estate,Spain,0.02
+IWG PLC,Industrial Goods & Services,Great Britain,0.02
+ANDRITZ,Industrial Goods & Services,Austria,0.02
+INCHCAPE,Industrial Goods & Services,Great Britain,0.02
+RAIFFEISEN BANK INTERNATIONAL,Banks,Austria,0.02
+ASHMORE GRP,Financial Services,Great Britain,0.02
+TP ICAP,Financial Services,Great Britain,0.02
+VICTREX,Chemicals,Great Britain,0.02
+ISS AS,Industrial Goods & Services,Denmark,0.02
+BCO SABADELL,Banks,Spain,0.02
+LOOMIS,Industrial Goods & Services,Sweden,0.02
+Signature Aviation,Industrial Goods & Services,Great Britain,0.02
+DASSAULT AVIATION,Industrial Goods & Services,France,0.02
+TOPDANMARK,Insurance,Denmark,0.02
+CANCOM,Technology,Germany,0.02
+H. LUNDBECK,Health Care,Denmark,0.02
+CLOSE BROTHERS GRP,Banks,Great Britain,0.02
+CHRISTIAN DIOR,Personal & Household Goods,France,0.02
+GLANBIA,Food & Beverage,Ireland,0.02
+CARNIVAL,Travel & Leisure,Great Britain,0.02
+BANK OF IRELAND GROUP,Banks,Ireland,0.02
+AKER BP,Oil & Gas,Norway,0.02
+MONEYSUPERMARKET COM GP.,Media,Great Britain,0.02
+HOCHTIEF,Construction & Materials,Germany,0.02
+NELES,Industrial Goods & Services,Finland,0.02
+ICADE,Real Estate,France,0.02
+MAPFRE,Insurance,Spain,0.02
+VISTRY GROUP,Personal & Household Goods,Great Britain,0.02
+GREAT PORTLAND ESTATES,Real Estate,Great Britain,0.02
+FRAPORT,Industrial Goods & Services,Germany,0.02
+REDROW,Personal & Household Goods,Great Britain,0.02
+GREGGS,Retail,Great Britain,0.02
+TUI,Travel & Leisure,Great Britain,0.02
+TGS-NOPEC GEOPHYSICAL,Oil & Gas,Norway,0.02
+NETWORK INTERNATIONAL HOLDINGS,Industrial Goods & Services,Great Britain,0.02
+EASYJET,Travel & Leisure,Great Britain,0.01
+MICRO FOCUS INTERNATIONAL,Technology,Great Britain,0.01
+GRENKE N,Financial Services,Germany,0.01
